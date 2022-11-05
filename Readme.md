@@ -141,7 +141,7 @@ Have their relative saving positions stored in the Piece object. Such that when 
 The background class’s relative check type can be observed and if the piece’s king is checked then 
 only the possible saving positions are returned.
 
-### AI
+## AI
 - The heuristic function used in the alpha beta.
 - Is the (total number of moves possible * mobility rate) + appropriateRates*(num of friendlies - num of opponents) + (num
 of pawns blocked) * rate. 
