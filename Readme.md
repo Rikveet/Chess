@@ -17,7 +17,7 @@ Special moves that can take place are en peasant, castling and piece promotion.
 
 | King                         | Queen                         | Horse                         |
 |------------------------------|-------------------------------|-------------------------------|
-| ![img.png](content/king.png) | ![img.png](content/horse.png) | ![img.png](content/horse.png) |
+| ![img.png](content/king.png) | ![img.png](content/queen.png) | ![img.png](content/horse.png) |
 
 | Bishop                         | Rook                         | Pawn                         |
 |--------------------------------|------------------------------|------------------------------|
